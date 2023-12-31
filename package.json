@@ -1,0 +1,9 @@
+{
+  "name": "artnet_relay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Andrea Ghidini <ghidosoft@gmail.com>",
+  "license": "ISC",
+  "type": "module"
+}
